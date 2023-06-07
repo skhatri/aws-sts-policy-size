@@ -1,0 +1,16 @@
+
+
+#IntelliJ
+.idea
+*.ipr
+*.iml
+*.iws
+out
+
+#Gradle
+.gradle
+build
+
+#Data
+aws-sts-data-files
+
